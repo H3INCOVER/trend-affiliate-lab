@@ -15,7 +15,8 @@ export default function Home() {
   const publishedPosts = posts as Post[];
 
   return (
-    <main className="min-h-screen bg-[#fafafa] text-zinc-900 [background-image:radial-gradient(#d4d4d8_1px,transparent_1px)] [background-size:18px_18px]">
+    <div className="min-h-screen bg-[#fafafa] text-zinc-900 [background-image:radial-gradient(#d4d4d8_1px,transparent_1px)] [background-size:18px_18px]">
+    {/* 中身はそのまま */}
       <section className="mx-auto max-w-3xl px-5 py-16 sm:py-24">
         <div className="mb-10 flex h-2 w-full overflow-hidden rounded-full">
           <div className="w-2/3 bg-red-500" />
@@ -81,6 +82,6 @@ export default function Home() {
           ))}
         </div>
       </section>
-    </main>
+    </div>
   );
 }
