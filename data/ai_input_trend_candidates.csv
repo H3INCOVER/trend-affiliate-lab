@@ -1,0 +1,31 @@
+﻿id,query,seed,score,source,collected_at,is_product_candidate
+1,生成 ai,AI,100,google_trends,2026-05-18,0
+11,節電 モード,節電,100,google_trends,2026-05-18,0
+21,在宅 ワーク,在宅ワーク,100,google_trends,2026-05-18,0
+12,節電 エアコン,節電,64,google_trends,2026-05-18,1
+2,ai 画像,AI,55,google_trends,2026-05-18,0
+3,google ai,AI,52,google_trends,2026-05-18,0
+4,ai 動画,AI,34,google_trends,2026-05-18,0
+13,節電 方法,節電,34,google_trends,2026-05-18,0
+5,line ai,AI,33,google_trends,2026-05-18,0
+14,節電 対策,節電,31,google_trends,2026-05-18,0
+6,gemini ai,AI,28,google_trends,2026-05-18,0
+7,ai モード,AI,28,google_trends,2026-05-18,0
+8,ai 画像 生成,AI,27,google_trends,2026-05-18,0
+15,扇風機,節電,27,google_trends,2026-05-18,1
+22,求人,在宅ワーク,25,google_trends,2026-05-18,0
+23,在宅 ワーク 求人,在宅ワーク,25,google_trends,2026-05-18,0
+9,claude ai,AI,24,google_trends,2026-05-18,0
+10,ai チャット,AI,23,google_trends,2026-05-18,0
+16,扇風機 節電,節電,23,google_trends,2026-05-18,1
+17,冷房 節電,節電,22,google_trends,2026-05-18,0
+18,iphone 節電,節電,21,google_trends,2026-05-18,0
+19,節電 モード 解除,節電,20,google_trends,2026-05-18,0
+20,節電 タップ,節電,18,google_trends,2026-05-18,1
+24,バイト,在宅ワーク,7,google_trends,2026-05-18,0
+25,在宅 バイト,在宅ワーク,7,google_trends,2026-05-18,0
+26,在宅 ワーク バイト,在宅ワーク,7,google_trends,2026-05-18,0
+27,在宅 ワーク 仕事,在宅ワーク,6,google_trends,2026-05-18,0
+28,データ 入力 在宅,在宅ワーク,5,google_trends,2026-05-18,0
+29,在宅 ワーク データ 入力,在宅ワーク,5,google_trends,2026-05-18,0
+30,在宅 ワーク 主婦,在宅ワーク,5,google_trends,2026-05-18,0

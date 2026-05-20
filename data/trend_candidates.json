@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "seed": "AI",
+    "query": "生成 ai",
+    "score": 100,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 11,
+    "seed": "節電",
+    "query": "節電 モード",
+    "score": 100,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 21,
+    "seed": "在宅ワーク",
+    "query": "在宅 ワーク",
+    "score": 100,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 12,
+    "seed": "節電",
+    "query": "節電 エアコン",
+    "score": 64,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": true,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 2,
+    "seed": "AI",
+    "query": "ai 画像",
+    "score": 55,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 3,
+    "seed": "AI",
+    "query": "google ai",
+    "score": 52,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 4,
+    "seed": "AI",
+    "query": "ai 動画",
+    "score": 34,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 13,
+    "seed": "節電",
+    "query": "節電 方法",
+    "score": 34,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 5,
+    "seed": "AI",
+    "query": "line ai",
+    "score": 33,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 14,
+    "seed": "節電",
+    "query": "節電 対策",
+    "score": 31,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 6,
+    "seed": "AI",
+    "query": "gemini ai",
+    "score": 28,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 7,
+    "seed": "AI",
+    "query": "ai モード",
+    "score": 28,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 8,
+    "seed": "AI",
+    "query": "ai 画像 生成",
+    "score": 27,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 15,
+    "seed": "節電",
+    "query": "扇風機",
+    "score": 27,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": true,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 22,
+    "seed": "在宅ワーク",
+    "query": "求人",
+    "score": 25,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 23,
+    "seed": "在宅ワーク",
+    "query": "在宅 ワーク 求人",
+    "score": 25,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 9,
+    "seed": "AI",
+    "query": "claude ai",
+    "score": 24,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 10,
+    "seed": "AI",
+    "query": "ai チャット",
+    "score": 23,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 16,
+    "seed": "節電",
+    "query": "扇風機 節電",
+    "score": 23,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": true,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 17,
+    "seed": "節電",
+    "query": "冷房 節電",
+    "score": 22,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 18,
+    "seed": "節電",
+    "query": "iphone 節電",
+    "score": 21,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 19,
+    "seed": "節電",
+    "query": "節電 モード 解除",
+    "score": 20,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 20,
+    "seed": "節電",
+    "query": "節電 タップ",
+    "score": 18,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": true,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 24,
+    "seed": "在宅ワーク",
+    "query": "バイト",
+    "score": 7,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 25,
+    "seed": "在宅ワーク",
+    "query": "在宅 バイト",
+    "score": 7,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 26,
+    "seed": "在宅ワーク",
+    "query": "在宅 ワーク バイト",
+    "score": 7,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 27,
+    "seed": "在宅ワーク",
+    "query": "在宅 ワーク 仕事",
+    "score": 6,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 28,
+    "seed": "在宅ワーク",
+    "query": "データ 入力 在宅",
+    "score": 5,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 29,
+    "seed": "在宅ワーク",
+    "query": "在宅 ワーク データ 入力",
+    "score": 5,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  },
+  {
+    "id": 30,
+    "seed": "在宅ワーク",
+    "query": "在宅 ワーク 主婦",
+    "score": 5,
+    "source": "google_trends",
+    "collectedAt": "2026-05-18",
+    "isProductCandidate": false,
+    "createdAt": "2026-05-18 01:36:14"
+  }
+]
